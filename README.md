@@ -22,7 +22,7 @@ Full-stack developer passionate about creating clean, efficient solutions. I lov
 ## 🌟 Fun Facts
 - 🍦 Ice cream shop owner
 - 🎮 Retro gaming enthusiast
-- 🎸 Guitar player in my free time
+- 🎾 Padel player in my free time
 - 🌮 Mexican food lover
 
 ## 📫 Let's Connect
