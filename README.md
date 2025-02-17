@@ -3,7 +3,7 @@
 </div>
 
 # Hi there! 👋 
-# I'm Walter Mendez
+### I'm Walter Mendez
 
 Full-stack developer passionate about creating clean, efficient solutions. I love turning ideas into reality through code.
 
