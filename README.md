@@ -27,7 +27,7 @@ Full-stack developer passionate about creating clean, efficient solutions. I lov
 - 🌮 Mexican food lover
 
 ## 📫 Let's Connect
-- [Portfolio](https://waltermendez.dev)
+- [Portfolio](https://soywaltermendez.dev)
 - [LinkedIn](https://linkedin.com/in/soywaltermendez)
 - [Twitter](https://twitter.com/soywaltermendez)
 
